@@ -1,2 +1,2 @@
-# pxt-MCP23017
-blocks for MCP23017 on micro:bit
+# pxt-poop
+blocks for poop on micro:bit
