@@ -1,0 +1,13 @@
+{
+    "name": "poopMechanics",
+    "version": "0.0.2",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "Blocks to control the pooping",
+    "files": [
+        "poop.ts",
+        "README.md"
+    ],
+    "public": true
+}
